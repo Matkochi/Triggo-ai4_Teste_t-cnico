@@ -1,4 +1,4 @@
-# Triggo-ai4_Teste_t-cnico
+# Triggo-ai4_Teste_técnico
 
 
 ---
